@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adildev/static/css/main.9d5dd599.chunk.css",
+    "main.js": "/adildev/static/js/main.1cab104a.chunk.js",
+    "main.js.map": "/adildev/static/js/main.1cab104a.chunk.js.map",
+    "runtime-main.js": "/adildev/static/js/runtime-main.75bc6f5c.js",
+    "runtime-main.js.map": "/adildev/static/js/runtime-main.75bc6f5c.js.map",
+    "static/js/2.520cda71.chunk.js": "/adildev/static/js/2.520cda71.chunk.js",
+    "static/js/2.520cda71.chunk.js.map": "/adildev/static/js/2.520cda71.chunk.js.map",
+    "index.html": "/adildev/index.html",
+    "precache-manifest.15d063cfd3212d9110cee3d3feaa1f93.js": "/adildev/precache-manifest.15d063cfd3212d9110cee3d3feaa1f93.js",
+    "service-worker.js": "/adildev/service-worker.js",
+    "static/css/main.9d5dd599.chunk.css.map": "/adildev/static/css/main.9d5dd599.chunk.css.map",
+    "static/js/2.520cda71.chunk.js.LICENSE.txt": "/adildev/static/js/2.520cda71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75bc6f5c.js",
+    "static/js/2.520cda71.chunk.js",
+    "static/css/main.9d5dd599.chunk.css",
+    "static/js/main.1cab104a.chunk.js"
+  ]
+}
